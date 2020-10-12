@@ -1,1 +1,0 @@
-print(f"{[element for element in range(20,240) if element %20==0 or element %21==0]}")
